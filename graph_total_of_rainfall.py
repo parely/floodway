@@ -62,7 +62,7 @@ trace8 = go.Bar(
     y=[128, 1262, 1247, 1921, 2904, 2083],
     name='ปี2555',
     marker=dict(
-        color='CC6633'
+        color='663399'
     )
 )
 trace9 = go.Bar(
@@ -70,7 +70,7 @@ trace9 = go.Bar(
     y=[1329, 1457, 1222, 2236, 2769, 2107],
     name='ปี2555',
     marker=dict(
-        color='663399'
+        color='CC6633'
     )
 )
 data = [trace1, trace2, trace3, trace4, trace5, trace6, trace7, trace8, trace9]
